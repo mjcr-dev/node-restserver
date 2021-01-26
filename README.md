@@ -4,5 +4,3 @@ Peticiones GET, POST, PUT, DELETE
 ```
 npm install
 ```
-
- 
